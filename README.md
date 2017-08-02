@@ -6,6 +6,7 @@ sudo nano /etc/pihole/adlists.list
 2. Tambahkan baris dibwah ini.
 
 https://raw.githubusercontent.com/laksa19/indo-ads/master/indo-ads.txt
+
 https://raw.githubusercontent.com/laksa19/indo-ads/master/indo-ads-annoyance.txt
 
 3. Simpan file dengan menekan tombol CTRL+X kemudian y dan Enter
