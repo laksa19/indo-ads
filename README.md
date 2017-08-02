@@ -3,7 +3,7 @@ Indonesian adlists for Pi-hole
 
 1. Edit file adlists Pi-hole
 sudo nano /etc/pihole/adlists.list
-2. Tambahkan baris dibwah ini
+2. Tambahkan baris dibwah ini.
 ##Indo-ads
 https://raw.githubusercontent.com/Laksa19/indo-ads/master/indo-ads.txt
 https://raw.githubusercontent.com/Laksa19/indo-ads/master/indo-ads-annoyance.txt
