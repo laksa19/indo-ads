@@ -70,6 +70,7 @@
 0.0.0.0	cd8iw9mh.cricket
 0.0.0.0	cdnasiaclub.com
 0.0.0.0	cdn.onesignal.com
+0.0.0.0	cdn.run-syndicate.com
 0.0.0.0	cdnstatic.detik.com
 0.0.0.0	cfasync.ga
 0.0.0.0	cjsab.com
@@ -244,6 +245,7 @@
 0.0.0.0	replase.ml
 0.0.0.0	rkbjbtxhdi.bid
 0.0.0.0	runreproducerow.com
+0.0.0.0	run-syndicate.com
 0.0.0.0	s0.2mdn.net
 0.0.0.0	s2pops.club
 0.0.0.0	s2.youtube.com
