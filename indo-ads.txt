@@ -159,6 +159,7 @@
 0.0.0.0	ikoh6ie.top
 0.0.0.0	ilxhsgd.com
 0.0.0.0	imaxbet.com
+0.0.0.0	img.akubebas.com
 0.0.0.0	imgg-cdn.adskeeper.co.uk
 0.0.0.0	indobanner.com
 0.0.0.0	indofreeads.com
