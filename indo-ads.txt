@@ -69,6 +69,7 @@
 0.0.0.0	cas.criteo.com
 0.0.0.0	cd8iw9mh.cricket
 0.0.0.0	cdnasiaclub.com
+0.0.0.0	cdn.onesignal.com
 0.0.0.0	cdnstatic.detik.com
 0.0.0.0	cfasync.ga
 0.0.0.0	cjsab.com
@@ -77,6 +78,7 @@
 0.0.0.0	clickredirection.com
 0.0.0.0	clksite.com
 0.0.0.0	cmdts.ksmobile.com
+0.0.0.0	cm.marketgid.com
 0.0.0.0	codeonclick.com
 0.0.0.0	cpaclickoffers.com
 0.0.0.0	cytochemistryrecitativewrasse.com
@@ -90,6 +92,7 @@
 0.0.0.0	dewsburg.info
 0.0.0.0	digitalmerkat.info
 0.0.0.0	dk7rftbivnkgr.cloudfront.net
+0.0.0.0	dolohen.com
 0.0.0.0	dqqulesm3pfse.cloudfront.net
 0.0.0.0	dubshub.com$script,third-party
 0.0.0.0	dulcetcgvcxr.com
@@ -169,6 +172,7 @@
 0.0.0.0	jillsclickcorner.com
 0.0.0.0	jjxsdkphpcwu.com
 0.0.0.0	js.ad-stir.com
+0.0.0.0	jsc.mgid.com
 0.0.0.0	juda0vnw.celi.gdn
 0.0.0.0	juruiklan.com
 0.0.0.0	klikabadi.com
@@ -261,6 +265,7 @@
 0.0.0.0	ssl.google-analytics.com
 0.0.0.0	sspintrafmsmt.com
 0.0.0.0	ssp.zryydi.com
+0.0.0.0	static.doubleclick.net
 0.0.0.0	stats.appsflyer.com
 0.0.0.0	sumberiklan.com
 0.0.0.0	suryaiklan.com
