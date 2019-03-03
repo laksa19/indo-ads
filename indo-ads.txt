@@ -103,6 +103,7 @@
 0.0.0.0	eclkmpsa.com
 0.0.0.0	edomz.com
 0.0.0.0	engine.spotscenered.info
+0.0.0.0	entitlements.jwplayer.com
 0.0.0.0	everyday-carry.com
 0.0.0.0	eze99.net
 0.0.0.0	fcjiqwghf.bid
@@ -176,6 +177,7 @@
 0.0.0.0	jsc.mgid.com
 0.0.0.0	juda0vnw.celi.gdn
 0.0.0.0	juruiklan.com
+0.0.0.0	jwpltx.com
 0.0.0.0	klikabadi.com
 0.0.0.0	klikabadi.net
 0.0.0.0	klikajadeh.com
