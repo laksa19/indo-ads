@@ -1,3 +1,5 @@
+0.0.0.0	3g.qq.com
+0.0.0.0	a01.uadexchange.com
 0.0.0.0	abrts.pro
 0.0.0.0	aclickads.com
 0.0.0.0	ada.avocarrot.com
@@ -246,6 +248,7 @@
 0.0.0.0	replase.gq
 0.0.0.0	replase.ml
 0.0.0.0	rkbjbtxhdi.bid
+0.0.0.0	runative.com
 0.0.0.0	runreproducerow.com
 0.0.0.0	run-syndicate.com
 0.0.0.0	s0.2mdn.net
@@ -278,12 +281,14 @@
 0.0.0.0	taboola.com
 0.0.0.0	t.appsflyer.com
 0.0.0.0	teliad.com
+0.0.0.0	tgw-pmir.3g.qq.com
 0.0.0.0	theclickers.net
 0.0.0.0	tinggalklik.com
 0.0.0.0	topklik.com
 0.0.0.0	topsurfer.com
 0.0.0.0	traacker2.info
 0.0.0.0	track.aptitudemedia.co
+0.0.0.0	track.atom-data.io
 0.0.0.0	track.spzan.com
 0.0.0.0	tradeadexchange.com
 0.0.0.0	translationbuddy.com
@@ -295,6 +300,7 @@
 0.0.0.0	twap.eu
 0.0.0.0	uoarbhxfyygn.com
 0.0.0.0	u-on.eu
+0.0.0.0	usa.ime.cootek.com
 0.0.0.0	useads.com
 0.0.0.0	vdtrack.com
 0.0.0.0	video-ad-stats.googlesyndication.com
