@@ -71,6 +71,7 @@
 0.0.0.0	bunchofwinners.win
 0.0.0.0	cas.criteo.com
 0.0.0.0	cd8iw9mh.cricket
+0.0.0.0	cdn.adsafeprotected.com
 0.0.0.0	cdnasiaclub.com
 0.0.0.0	cdn.onesignal.com
 0.0.0.0	cdn.run-syndicate.com
@@ -124,6 +125,7 @@
 0.0.0.0	googleads.g.doubleclick.net
 0.0.0.0	google-analytics.com
 0.0.0.0	googletagmanager.com
+0.0.0.0	googletagservices.com
 0.0.0.0	graph.accountkit.com
 0.0.0.0	graph.instagram.com
 0.0.0.0	greatwork.info
@@ -321,6 +323,7 @@
 0.0.0.0	www.bisa88.com
 0.0.0.0	www.googleadservices.com
 0.0.0.0	www.google-analytics.com
+0.0.0.0	www.googletagservices.com
 0.0.0.0	www.gotrack1.es
 0.0.0.0	www.headwaydigital.com
 0.0.0.0	www.judibolanet.com
