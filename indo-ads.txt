@@ -52,6 +52,7 @@
 0.0.0.0	analisis.io
 0.0.0.0	analytics.picsart.com
 0.0.0.0	anekaiklan.com
+0.0.0.0	api.ipify.org
 0.0.0.0	apmmedia.net
 0.0.0.0	app.adjust.com
 0.0.0.0	app-measurement.com
@@ -91,6 +92,7 @@
 0.0.0.0	d15cjcet1djbmv.cloudfront.net
 0.0.0.0	d28k9nkt2spnp.cloudfront.net
 0.0.0.0	d2jn12r3o7an7z.cloudfront.net
+0.0.0.0	d31qbv1cthcecs.cloudfront.net
 0.0.0.0	d6swopgiplmy0.cloudfront.net
 0.0.0.0	dafa.io
 0.0.0.0	dashbo15myapp.com
@@ -342,4 +344,3 @@
 0.0.0.0	ylx-2.com
 0.0.0.0	ylx-4.com
 0.0.0.0	yx-ads6.com
-0.0.0.0	d31qbv1cthcecs.cloudfront.net
