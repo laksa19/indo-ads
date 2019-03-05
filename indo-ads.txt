@@ -19,6 +19,7 @@
 0.0.0.0	adpop-1.com
 0.0.0.0	adpstatic.com
 0.0.0.0	adreviewcamp.com
+0.0.0.0	ads8.kompasads.com
 0.0.0.0	ads.admarvel.com
 0.0.0.0	ads.avad.net
 0.0.0.0	ads.bca.co.id
@@ -272,11 +273,13 @@
 0.0.0.0	ssl.google-analytics.com
 0.0.0.0	sspintrafmsmt.com
 0.0.0.0	ssp.zryydi.com
+0.0.0.0	static.criteo.net
 0.0.0.0	static.doubleclick.net
 0.0.0.0	stats.appsflyer.com
 0.0.0.0	sumberiklan.com
 0.0.0.0	suryaiklan.com
 0.0.0.0	sworatio.co
+0.0.0.0	sync.aralego.com
 0.0.0.0	s.youtube.com
 0.0.0.0	taboola.com
 0.0.0.0	t.appsflyer.com
