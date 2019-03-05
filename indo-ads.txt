@@ -85,6 +85,7 @@
 0.0.0.0	cmdts.ksmobile.com
 0.0.0.0	cm.marketgid.com
 0.0.0.0	codeonclick.com
+0.0.0.0	connect.facebook.net
 0.0.0.0	cpaclickoffers.com
 0.0.0.0	cytochemistryrecitativewrasse.com
 0.0.0.0	d15cjcet1djbmv.cloudfront.net
@@ -166,6 +167,7 @@
 0.0.0.0	iklanumum.com
 0.0.0.0	ikoh6ie.top
 0.0.0.0	ilxhsgd.com
+0.0.0.0	imasdk.googleapis.com
 0.0.0.0	imaxbet.com
 0.0.0.0	imgg-cdn.adskeeper.co.uk
 0.0.0.0	indobanner.com
@@ -283,6 +285,7 @@
 0.0.0.0	suryaiklan.com
 0.0.0.0	sworatio.co
 0.0.0.0	sync.aralego.com
+0.0.0.0	sync.search.spotxchange.com
 0.0.0.0	s.youtube.com
 0.0.0.0	taboola.com
 0.0.0.0	t.appsflyer.com
