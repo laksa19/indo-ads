@@ -79,6 +79,7 @@
 0.0.0.0	cdnstatic.detik.com
 0.0.0.0	cfasync.ga
 0.0.0.0	cjsab.com
+0.0.0.0	click.accesstrade.co.id
 0.0.0.0	clickforfreeandready2updating.bid
 0.0.0.0	clickmedia.co.id
 0.0.0.0	clickredirection.com
@@ -101,6 +102,7 @@
 0.0.0.0	digitalmerkat.info
 0.0.0.0	dk7rftbivnkgr.cloudfront.net
 0.0.0.0	dolohen.com
+0.0.0.0	downloadgot.com
 0.0.0.0	dqqulesm3pfse.cloudfront.net
 0.0.0.0	dubshub.com$script,third-party
 0.0.0.0	dulcetcgvcxr.com
@@ -201,6 +203,7 @@
 0.0.0.0	m.9clubasia.com
 0.0.0.0	macarier.review
 0.0.0.0	masteriklan.net
+0.0.0.0	masternaga99.com
 0.0.0.0	medi8.genieesspv.jp
 0.0.0.0	mediab.uy
 0.0.0.0	mesiniklan.andipublisher.com
@@ -277,6 +280,7 @@
 0.0.0.0	sidikiwinnings.webcam
 0.0.0.0	sitti.co.id
 0.0.0.0	situsiklanbaris.com
+0.0.0.0	slotsbig777.com
 0.0.0.0	ssl.google-analytics.com
 0.0.0.0	sspintrafmsmt.com
 0.0.0.0	ssp.zryydi.com
@@ -290,6 +294,7 @@
 0.0.0.0	sync.search.spotxchange.com
 0.0.0.0	s.youtube.com
 0.0.0.0	taboola.com
+0.0.0.0	tangkasnet.cool
 0.0.0.0	t.appsflyer.com
 0.0.0.0	teliad.com
 0.0.0.0	tgw-pmir.3g.qq.com
@@ -332,6 +337,7 @@
 0.0.0.0	www.googletagservices.com
 0.0.0.0	www.gotrack1.es
 0.0.0.0	www.headwaydigital.com
+0.0.0.0	www.ionwin88.net
 0.0.0.0	www.judibolanet.com
 0.0.0.0	www.mgid.com
 0.0.0.0	www.outbrain.com
