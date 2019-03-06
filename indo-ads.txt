@@ -341,6 +341,7 @@
 0.0.0.0	www.judibolanet.com
 0.0.0.0	www.mgid.com
 0.0.0.0	www.outbrain.com
+0.0.0.0	www.pokerpedia.us
 0.0.0.0	www.translationbuddy.com
 0.0.0.0	www.u1trkqf.com
 0.0.0.0	xbfk51p7.review
