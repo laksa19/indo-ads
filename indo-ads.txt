@@ -69,6 +69,7 @@
 0.0.0.0	big.kingcontests.win
 0.0.0.0	bisa88.com
 0.0.0.0	bmnet-ads.com
+0.0.0.0	browsergames2019.com
 0.0.0.0	bunchofwinners.win
 0.0.0.0	cas.criteo.com
 0.0.0.0	cd8iw9mh.cricket
@@ -313,9 +314,11 @@
 0.0.0.0	trc.taboola.com
 0.0.0.0	trdks.com
 0.0.0.0	trk.cpaoptimizer.com
+0.0.0.0	trk.yexmox.com
 0.0.0.0	trndoffers.com
 0.0.0.0	tummiarunzpf.com
 0.0.0.0	twap.eu
+0.0.0.0	undef8trust.com
 0.0.0.0	uoarbhxfyygn.com
 0.0.0.0	u-on.eu
 0.0.0.0	usa.ime.cootek.com
