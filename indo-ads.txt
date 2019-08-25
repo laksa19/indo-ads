@@ -357,3 +357,4 @@
 0.0.0.0	ylx-4.com
 0.0.0.0	yx-ads6.com
 0.0.0.0 alballaim.com
+0.0.0.0 nittprog.site
