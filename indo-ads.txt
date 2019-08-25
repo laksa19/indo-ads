@@ -358,3 +358,5 @@
 0.0.0.0	yx-ads6.com
 0.0.0.0 alballaim.com
 0.0.0.0 nittprog.site
+0.0.0.0 tracking.lenzmx.com
+0.0.0.0 lenzmx.com
