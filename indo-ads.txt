@@ -105,7 +105,7 @@
 0.0.0.0	dolohen.com
 0.0.0.0	downloadgot.com
 0.0.0.0	dqqulesm3pfse.cloudfront.net
-0.0.0.0	dubshub.com$script,third-party
+0.0.0.0	dubshub.com
 0.0.0.0	dulcetcgvcxr.com
 0.0.0.0	dzbx8qv1at614.cloudfront.net
 0.0.0.0	e93-apps.com
@@ -212,7 +212,7 @@
 0.0.0.0	mgid.com
 0.0.0.0	mobile.foma-ds.com
 0.0.0.0	mobile.pipe.aria.microsoft.com
-0.0.0.0	mrperfect.in$script,third-party
+0.0.0.0	mrperfect.in
 0.0.0.0	mybannermaker.com
 0.0.0.0	net-s-sof-t-open.site
 0.0.0.0	newopenx.detik.com
