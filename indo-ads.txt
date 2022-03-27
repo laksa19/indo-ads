@@ -209,6 +209,7 @@
 0.0.0.0	medi8.genieesspv.jp
 0.0.0.0	mediab.uy
 0.0.0.0	mesiniklan.andipublisher.com
+0.0.0.0 luxury138.link
 0.0.0.0	mgid.com
 0.0.0.0	mobile.foma-ds.com
 0.0.0.0	mobile.pipe.aria.microsoft.com
@@ -384,3 +385,15 @@
 0.0.0.0 lgappstv.com
 0.0.0.0 smartshare.lgtvsdp.com
 0.0.0.0 lgappstv.com
+
+#now i know that pihole does block ip too, so
+# DELETE ALL THE GAMBLE ADS
+# For now I got the ads from crack anime sites or smth
+128.199.25.237
+139.59.116.68
+128.199.127.22
+13.250.221.149
+128.199.25.237
+3.1.126.175
+54.251.104.51
+18.140.221.24
