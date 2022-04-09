@@ -105,7 +105,7 @@
 0.0.0.0	dolohen.com
 0.0.0.0	downloadgot.com
 0.0.0.0	dqqulesm3pfse.cloudfront.net
-0.0.0.0	dubshub.com$script,third-party
+0.0.0.0	dubshub.com
 0.0.0.0	dulcetcgvcxr.com
 0.0.0.0	dzbx8qv1at614.cloudfront.net
 0.0.0.0	e93-apps.com
@@ -209,10 +209,11 @@
 0.0.0.0	medi8.genieesspv.jp
 0.0.0.0	mediab.uy
 0.0.0.0	mesiniklan.andipublisher.com
+0.0.0.0 luxury138.link
 0.0.0.0	mgid.com
 0.0.0.0	mobile.foma-ds.com
 0.0.0.0	mobile.pipe.aria.microsoft.com
-0.0.0.0	mrperfect.in$script,third-party
+0.0.0.0	mrperfect.in
 0.0.0.0	mybannermaker.com
 0.0.0.0	net-s-sof-t-open.site
 0.0.0.0	newopenx.detik.com
@@ -361,3 +362,38 @@
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 lenzmx.com
 0.0.0.0 track.bruceleadx2.com
+
+
+#Web os
+0.0.0.0 us.rdx2.lgtvsdp.com
+0.0.0.0 us.info.lgsmartad.com
+0.0.0.0 us.ibs.lgappstv.com
+0.0.0.0 us.lgtvsdp.com
+0.0.0.0 ad.lgappstv.com
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 ibis.lgappstv.com
+0.0.0.0 us.ad.lgsmartad.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 ngfts.lge.com
+0.0.0.0 yumenetworks.com
+0.0.0.0 smartclip.net
+0.0.0.0 smartclip.com
+0.0.0.0 rdx2.lgtvsdp.com
+0.0.0.0 info.lgsmartad.com
+0.0.0.0 ibs.lgappstv.com
+0.0.0.0 lgtvsdp.com
+0.0.0.0 lgappstv.com
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 lgappstv.com
+
+#now i know that pihole does block ip too, so
+# DELETE ALL THE GAMBLE ADS
+# For now I got the ads from crack anime sites or smth
+128.199.25.237
+139.59.116.68
+128.199.127.22
+13.250.221.149
+128.199.25.237
+3.1.126.175
+54.251.104.51
+18.140.221.24
